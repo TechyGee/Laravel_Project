@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+footer{
+background: #eee;
+padding: 20px;
+text-align: center;
+margin-top: 500px;
+font-family: "Poppins", sans-serif;
+} 
+
+.img{
+    margin: 20px 20px;
+}
